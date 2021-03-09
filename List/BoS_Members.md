@@ -4,6 +4,8 @@
 | -- | --- | -- | -- | -- | -- |
 |1	|Dr. H.S Rai	|Chairman	| Professor & Head	|9855225007|	hsrai@gndec.ac.in|
 | 2	| Dr. Harpal Singh	| Member	| Professor |	9888468687 |	Harpalsingh@gndec.ac.in |
+
+
 3	Dr. Harvinder Singh	Member	Professor	9914800906	hs@gndec.ac.in
 4	Dr. Jagbir Singh	Member	Professor	9216408335	jsdhillon26@gndec.ac.in
 5	Dr. Gurdeepak Singh	Member	Assoc. Professor	9855965901	klergs@gndec.ac.in
